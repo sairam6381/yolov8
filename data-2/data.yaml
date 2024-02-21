@@ -20,9 +20,3 @@ names:
     "whiteflies",
   ]
 
-roboflow:
-  workspace: training-1rp1z
-  project: plants-detection-0nczh
-  version: 3
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/training-1rp1z/plants-detection-0nczh/dataset/3
