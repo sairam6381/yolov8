@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /content/yolov8/data-1/train/images
+val: /content/yolov8/data-1/valid/images
+test: /content/yolov8/data-1/test/images
 
 nc: 29
 names:
